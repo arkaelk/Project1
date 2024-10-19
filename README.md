@@ -1,2 +1,4 @@
-# Project1
- Increase enrollment in CCM computing courses by performing data analysis over the weeks
+# Project 1 - Computer Course Enrollment
+
+*This project takes student driven data for CCM's Information Techonology department.
+*dfdf
