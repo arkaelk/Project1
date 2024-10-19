@@ -1,4 +1,3 @@
 # Project 1 - Computer Course Enrollment
 
-*This project takes student driven data for CCM's Information Techonology department.
-*dfdf
+This project takes student-driven data from surveys to help CCM's Information Techonology department with student enrollment. There are four questions that are answered, each pertaining to some aspect of enrollment  either by gender, interest, exposure, etc. With the given data, the objective was to utilize the pandas library and knowleged learned in class to clean the data and answer the questions. Four plots are the byproduct of my project in order to tell a story, and show how certain factors have affected enrollment of students at CCM's IT department.
